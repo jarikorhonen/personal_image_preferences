@@ -28,15 +28,15 @@ The original subjective scores are available from the respective websites. To fa
 
 ### Feature extraction:
 
-extract_image_features.m implements the image feature vector extraction. 
+_extract_image_features.m_ implements the image feature vector extraction. 
 
-Usage: feature_vec = compute_image_features(filename)
-Input: filename: path to the image file
-Output: image feature vector (12 features)
+__Usage:__ feature_vec = compute_image_features(filename)
+__Input:__ filename: path to the image file
+__Output:__ image feature vector (12 features)
 
-extract_cid2013_features.m extracts the features for CID2013 database and stores the values in the files named as cid2013_features_dataset_X.csv, where X is the dataset number (1-6).
+_extract_cid2013_features.m_ extracts the features for CID2013 database and stores the values in the files named as _cid2013_features_dataset_X.csv_, where X is the dataset number (1-6).
 
-extract_ceed2016_features.m extracts the features for CEED2016 database and stores the values in the file named as ceed2016_features.csv.
+_extract_ceed2016_features.m_ extracts the features for CEED2016 database and stores the values in the file named as _ceed2016_features.csv_.
 
 ### Regression:
 
