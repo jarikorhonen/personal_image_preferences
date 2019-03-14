@@ -13,20 +13,18 @@ CEED2016: https://data.mendeley.com/datasets/3hfzp6vwkm/3
 
 The original subjective scores are available from the respective websites. To facilitate data processing, we have included CSV files with the user-item rating matrices in the similar format in the supplementary material:
 
-
 #### CID2013:
 
-cid2013_rating_matrix_dataset_1.csv
-cid2013_rating_matrix_dataset_2.csv
-cid2013_rating_matrix_dataset_3.csv
-cid2013_rating_matrix_dataset_4.csv
-cid2013_rating_matrix_dataset_5.csv
-cid2013_rating_matrix_dataset_6.csv 
-
+* cid2013_rating_matrix_dataset_1.csv
+* cid2013_rating_matrix_dataset_2.csv
+* cid2013_rating_matrix_dataset_3.csv
+* cid2013_rating_matrix_dataset_4.csv
+* cid2013_rating_matrix_dataset_5.csv
+* cid2013_rating_matrix_dataset_6.csv 
 
 #### CEED2016:
 
-rating_matrix_ceed2016.csv
+* rating_matrix_ceed2016.csv
 
 ### Feature extraction:
 
