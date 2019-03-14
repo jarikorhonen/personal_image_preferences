@@ -31,7 +31,9 @@ The original subjective scores are available from the respective websites. To fa
 _extract_image_features.m_ implements the image feature vector extraction. 
 
 __Usage:__ feature_vec = compute_image_features(filename)
+
 __Input:__ filename: path to the image file
+
 __Output:__ image feature vector (12 features)
 
 _extract_cid2013_features.m_ extracts the features for CID2013 database and stores the values in the files named as _cid2013_features_dataset_X.csv_, where X is the dataset number (1-6).
