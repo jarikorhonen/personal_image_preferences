@@ -42,10 +42,10 @@ extract_ceed2016_features.m extracts the features for CEED2016 database and stor
 
 To repeat the experiments described in the paper, the following Python scripts are be provided:
 
-predict_ratings_cid2013_test1.py
-predict_ratings_cid2013_test2.py
-predict_ratings_ceed2013_test1.py
-predict_ratings_ceed2013_test2.py
+* predict_ratings_cid2013_test1.py
+* predict_ratings_cid2013_test2.py
+* predict_ratings_ceed2013_test1.py
+* predict_ratings_ceed2013_test2.py
 
 It is assumed that the relevant image features files and the rating matrix files are available for the scripts.
 
