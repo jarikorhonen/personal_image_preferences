@@ -8,7 +8,7 @@ Since there is large deviation in personal opinions and aesthetic standards conc
 
 There are two main phases for generating the results: feature extraction (implementing in Matlab) and regression (implemented in Python). Features will be stored in CSV file that is used by the Python scripts. The used image databases are not included in the supplementary material, but they need to be downloaded from the respective websites:
 
-* CVD2013: http://www.helsinki.fi/~tiovirta/Resources/CID2013/
+* CID2013: http://www.helsinki.fi/~tiovirta/Resources/CID2013/ *Not currently available*
 * CEED2016: https://data.mendeley.com/datasets/3hfzp6vwkm/3
 
 The original subjective scores are available from the respective websites. To facilitate data processing, we have included CSV files with the user-item rating matrices in the similar format in the supplementary material:
