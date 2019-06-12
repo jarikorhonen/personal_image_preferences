@@ -2,7 +2,7 @@
 
 ![Personal image preference estimation](https://github.com/jarikorhonen/personal_image_preferences/blob/master/cvpr2019.png)
 
-Since there is large deviation in personal opinions and aesthetic standards concerning image quality, it is a challenge is to find the settings and post-processing techniques that fit to the individual users’ personal taste. In this study, we aim to predict the personally perceived image quality by combining classical image feature analysis and collaboration filtering approach known from the recommendation systems. More information will be available in the [paper](https://github.com/jarikorhonen/personal_image_preferences/blob/master/cvpr19.pdf) (accepted for publication in CVPR 2019).
+Since there is large deviation in personal opinions and aesthetic standards concerning image quality, it is a challenge is to find the settings and post-processing techniques that fit to the individual users’ personal taste. In this study, we aim to predict the personally perceived image quality by combining classical image feature analysis and collaboration filtering approach known from the recommendation systems. More information is available in the [CVPR'19 paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Korhonen_Assessing_Personally_Perceived_Image_Quality_via_Image_Features_and_Collaborative_CVPR_2019_paper.html).
 
 ## Instructions for reproducing the results in the paper:
 
